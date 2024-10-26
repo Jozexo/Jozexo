@@ -10,10 +10,13 @@
   </picture>  
 </div>
 
-
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=false&bar_color=ff0080" alt="spotify-github-profile" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false" alt="spotify-github-profile"/>
   </a>
-</div>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/Jozexo/Jozexo/blob/main/loffy.gif" width="315" style="border-radius: 30px;"/>
+</p>
