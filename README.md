@@ -10,4 +10,4 @@
 
 
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/3172duxsvztk6aw6fsqeptfy4mfa)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/3172duxsvztk6aw6fsqeptfy4mfa?si=78241a692dfd47e2)
