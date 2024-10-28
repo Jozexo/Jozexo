@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7d3c98&size=35&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MY+GITHUB+PROFILE!;MY+NAME+IS+JOZÉ+HERNÁNDEZ;I'M+A+MESSMER+THE+IMPALER)](https://git.io/typing-svg)
+![Jozexo GIF](https://raw.githubusercontent.com/Jozexo/Jozexo/main/Jozexo.gif)
 
 
 
