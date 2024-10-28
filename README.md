@@ -10,9 +10,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/Jozexo/Jozexo/blob/main/loffy.gif" width="315" style="border-radius: 30px;"/>
-</p>
 
 ---
 
