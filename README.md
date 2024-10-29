@@ -23,14 +23,12 @@
   </tr>
 </table>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false" alt="spotify-github-profile" style="margin-right: 30px;"/>
-  </a>
-  <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/1.gif" width="169" style="border-radius: 30px margin-right: 10px;"/>
-  <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/2.gif" width="169" style="border-radius: 30px margin-right: 10px;"/>
-  <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/3.gif" width="169" style="border-radius: 30px margin-right: 10px;"/>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/Eraser.gif" width="285" style="border-radius: 30px margin-right: 10px;"/>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="spotify-github-profile" style="margin-right: 30px;"/>
+  </a>
 </div>
 
 
