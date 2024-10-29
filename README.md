@@ -1,4 +1,4 @@
-![Jozexo GIF](https://raw.githubusercontent.com/Jozexo/Jozexo/main/Jozexo.gif)
+<img src="https://github.com/Jozexo/Jozexo/blob/main/gif/Jozexo.gif" style="border-radius: 30px margin-right: 10px;"/>
 
 ---
 
