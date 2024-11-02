@@ -2,7 +2,9 @@
 
 ---
 
+<pre>
 🟣 - Glad to see you!
+</pre>
 
 > Hello, my name is Jozé Hernández. I'm a fan of programming and full cybersecurity, I started 5 years ago in this world making mods and bots. Currently, I'm focused on finishing my degree in Systems Engineering and several personal projects in the world of c#. Greetings!!!
 
@@ -17,10 +19,11 @@
 
 ---
 
-🟢 - Spotify!
+<pre>
+🟢 - Spotify Playing! 🎧
+</pre>
 
-[<img src="https://jozexo.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/3172duxsvztk6aw6fsqeptfy4mfa)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=35ca3d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&redirect=true)
 
 ---
 
