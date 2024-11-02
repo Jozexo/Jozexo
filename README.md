@@ -20,22 +20,21 @@
 🟢 - Spotify Playing! 🎧
 </pre>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=false&bar_color=35ca3d&bar_color_cover=false" width="200" />
-    </td>
-    <td>
-      <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/darksouls.gif?raw=true" width="170" />
-    </td>
-    <td>
-      <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/kirokaze.gif?raw=true" width="170" />
-    </td>
-    <td>
-      <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/slequeto.gif?raw=true" width="160" />
-    </td>
-  </tr>
-</table>
+<div style="text-align: center;">
+  <table style="margin: auto;">
+    <tr>
+      <td>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=35ca3d&bar_color_cover=false" width="200" />
+      </td>
+      <td>
+        <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/itachi.gif?raw=true" width="265" />
+      </td>
+      <td>
+        <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/girl.gif?raw=true" width="270" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
