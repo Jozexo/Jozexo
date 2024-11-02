@@ -30,7 +30,7 @@
         <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/chill.gif?raw=true" width="200" />
       </td>
       <td>
-        <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/squeleton.gif?raw=true" width="165" />
+        <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/squeleton.gif?raw=true" width="150" />
       </td>
       <td>
         <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/city.gif?raw=true" width="187" />
