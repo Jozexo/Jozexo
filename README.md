@@ -26,10 +26,13 @@
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=false&bar_color=35ca3d&bar_color_cover=false" width="200" />
     </td>
     <td>
-      <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/1.gif?raw=true" width="200" />
+      <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/darksouls.gif?raw=true" width="160" />
     </td>
     <td>
-      <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/2.gif?raw=true" width="200" />
+      <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/kirokaze.gif?raw=true" width="160" />
+    </td>
+    <td>
+      <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/slequeto.gif?raw=true" width="150" />
     </td>
   </tr>
 </table>
