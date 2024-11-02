@@ -30,10 +30,10 @@
         <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/chill.gif?raw=true" width="200" />
       </td>
       <td>
-        <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/squeleton.gif?raw=true" width="155" />
+        <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/squeleton.gif?raw=true" width="160" />
       </td>
       <td>
-        <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/city.gif?raw=true" width="197" />
+        <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/city.gif?raw=true" width="195" />
       </td>
     </tr>
   </table>
