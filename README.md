@@ -1,7 +1,7 @@
 <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/Jozexo.gif" style="border-radius: 30px margin-right: 10px;"/>
 
 <pre>
-🟣 - Glad to see you!
+🟣 - Glad to see you! 🤟🏻
 </pre>
 
 > Hello, my name is Jozé Hernández. I'm a fan of programming and full cybersecurity, I started 5 years ago in this world making mods and bots. Currently, I'm focused on finishing my degree in Systems Engineering and several personal projects in the world of c#. Greetings!!!
@@ -14,14 +14,19 @@
 > - ⚫️ Main languages: JavaScript, Python, C# and PHP.
 > - ⚫️ Interested in developing applications with Python, looking to create effective and easy to use solutions.
 
+
+
+
+
+
+
+
+
 <pre>
 🟢 - Spotify Playing! 🎧
 </pre>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=35ca3d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&redirect=true)
-
----
-
 
 <div align="center">
   <picture>
