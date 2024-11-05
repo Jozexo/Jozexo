@@ -7,12 +7,12 @@
 > Hello, my name is Jozé Hernández. I'm a fan of programming and full cybersecurity, I started 5 years ago in this world making mods and bots. Currently, I'm focused on finishing my degree in Systems Engineering and several personal projects in the world of c#. Greetings!!!
 
 
-> - ⚫️ Systems Engineering student at University of Margarita ["UNIMAR"](https://portalunimar.unimar.edu.ve/).
-> - ⚫️ Passionate about C# and its ecosystem, exploring new ways to optimize and create robust applications.
-> - ⚫️ Currently working on several personal projects under the name Misterio.
-> - ⚫️ Getting into the fascinating world of cybersecurity and hacking, thanks to the S4vitar initiative.
-> - ⚫️ Main languages: JavaScript, Python, C# and PHP.
-> - ⚫️ Interested in developing applications with Python, looking to create effective and easy to use solutions.
+> - Systems Engineering student at University of Margarita ["UNIMAR"](https://portalunimar.unimar.edu.ve/).
+> - Passionate about C# and its ecosystem, exploring new ways to optimize and create robust applications.
+> - Currently working on several personal projects under the name Misterio.
+> - Getting into the fascinating world of cybersecurity and hacking, thanks to the S4vitar initiative.
+> - Main languages: JavaScript, Python, C# and PHP.
+> - Interested in developing applications with Python, looking to create effective and easy to use solutions.
 
 
 
