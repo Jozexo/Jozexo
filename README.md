@@ -52,16 +52,16 @@
   <table style="margin: auto;">
     <tr>
       <td>
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=35ca3d&bar_color_cover=false" width="200" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=35ca3d&bar_color_cover=false" width="200" />
       </td>
       <td>
-        <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/chill.gif?raw=true" width="200" />
+        
       </td>
       <td>
-        <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/squeleton.gif?raw=true" width="160" />
+        
       </td>
       <td>
-        <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/city.gif?raw=true" width="195" />
+        
       </td>
     </tr>
   </table>
