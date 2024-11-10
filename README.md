@@ -15,7 +15,37 @@
 > - Interested in developing applications with Python, looking to create effective and easy to use solutions.
 
 
+<pre>
+🟣 - SKILLS 🤟🏻
 
+Programming Languages
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,cs,java,php,py" />
+  </a>
+</p>
+
+<h2 align="center">Frontend Development</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,vue,react,angular" />
+  </a>
+</p>
+
+<h2 align="center">Backend Development</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,docker,fastapi,flask,nodejs,laravel,mongodb,mysql,postgres" />
+  </a>
+</p>
+
+<h2 align="center">Tools & Technologies</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,azure,linux,visualstudio,vscode" />
+  </a>
+</p>
+</pre>
 
 <pre>
 🟢 - SPOTIFY PLAYING! 🎧
