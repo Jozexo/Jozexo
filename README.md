@@ -49,22 +49,8 @@
 </pre>
 
 <div style="text-align: center;">
-  <table style="margin: auto;">
-    <tr>
-      <td>
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=35ca3d&bar_color_cover=false" width="200" />
-      </td>
-      <td>
-        <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/Neon and rain.gif" style="width: 50px;"/>
-      </td>
-      <td>
-        
-      </td>
-      <td>
-        
-      </td>
-    </tr>
-  </table>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=35ca3d&bar_color_cover=false" width="400" />
+        <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/mario.gif" style="width: 400px;"/>
 </div>
 
 
