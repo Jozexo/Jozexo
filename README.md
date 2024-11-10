@@ -20,27 +20,27 @@
 </pre>
 
 > <pre>
->🟣 - Programming Languages
+>⚫ - Programming Languages
 >  
->  <img src="https://skillicons.dev/icons?i=js,ts,cs,java,php,py" />
+>   <img src="https://skillicons.dev/icons?i=js,ts,cs,java,php,py" />
 > </pre>
     
 > <pre>
->🟣 - Frontend Development
+>⚫ - Frontend Development
 >
->    <img src="https://skillicons.dev/icons?i=css,html,vue,react,angular" />
+>   <img src="https://skillicons.dev/icons?i=css,html,vue,react,angular" />
 > </pre>
 
 > <pre>
->🟣 - Backend Development
+>⚫ - Backend Development
 >  
->    <img src="https://skillicons.dev/icons?i=django,docker,fastapi,flask,nodejs,laravel,mongodb,mysql,postgres" />
+>   <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,laravel,mongodb,mysql,postgres" />
 > </pre>
 
 > <pre>
->🟣 - Tools & Technologies
+>⚫ - Tools & Technologies
 >  
->    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,azure,linux,visualstudio,vscode" />
+>   <img src="https://skillicons.dev/icons?i=git,docker,github,gitlab,figma,azure,linux,visualstudio,vscode" />
 > </pre>
 
 
@@ -49,8 +49,8 @@
 </pre>
 
 <div style="text-align: center;">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=35ca3d&bar_color_cover=false" width="400" />
-        <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/mario.gif" style="width: 430px;"/>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=35ca3d&bar_color_cover=false" width="430" />
+        <img src="https://github.com/Jozexo/Jozexo/blob/main/gif/mario.gif" style="width: 400px;"/>
 </div>
 
 
