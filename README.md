@@ -1,4 +1,4 @@
-<img src="https://github.com/Jozexo/Jozexo/blob/main/gif/Jozexo.gif" style="border-radius: 30px margin-right: 10px;"/>
+<img src="https://github.com/Jozexo/Jozexo/blob/main/gif/Jozexoz.gif" style="border-radius: 30px margin-right: 10px;"/>
 
 <pre>
 🟣 - GLAD TO SEE YOU! 🤟🏻
