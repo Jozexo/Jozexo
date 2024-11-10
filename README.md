@@ -17,35 +17,32 @@
 
 <pre>
 🟣 - SKILLS 🤟🏻
-
-Programming Languages
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cs,java,php,py" />
-  </a>
-</p>
-
-<h2 align="center">Frontend Development</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,vue,react,angular" />
-  </a>
-</p>
-
-<h2 align="center">Backend Development</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,docker,fastapi,flask,nodejs,laravel,mongodb,mysql,postgres" />
-  </a>
-</p>
-
-<h2 align="center">Tools & Technologies</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,azure,linux,visualstudio,vscode" />
-  </a>
-</p>
 </pre>
+
+> <pre>
+>🟣 - Programming Languages
+>  
+>  <img src="https://skillicons.dev/icons?i=js,ts,cs,java,php,py" />
+> </pre>
+    
+> <pre>
+>🟣 - Frontend Development
+>
+>    <img src="https://skillicons.dev/icons?i=css,html,vue,react,angular" />
+> </pre>
+
+> <pre>
+>🟣 - Backend Development
+>  
+>    <img src="https://skillicons.dev/icons?i=django,docker,fastapi,flask,nodejs,laravel,mongodb,mysql,postgres" />
+> </pre>
+
+> <pre>
+>🟣 - Tools & Technologies
+>  
+>    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,azure,linux,visualstudio,vscode" />
+> </pre>
+
 
 <pre>
 🟢 - SPOTIFY PLAYING! 🎧
