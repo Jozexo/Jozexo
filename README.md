@@ -7,15 +7,23 @@
     <img src="https://skillicons.dev/icons?i=cs,py,php,js,ts,dart,html,css,mysql,postgres" />
   </a>
 </p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3D" />
 
 <!-- FRAMEWORKS & DEVOPS -->
 <h3><code>🚀 Frameworks & DevOps</code></h3>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,astro,tailwind,nodejs,laravel,flutter,docker,kubernetes,vercel,git,figma" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,astro,tailwind,nodejs,laravel,flutter,docker,kubernetes,vercel,git,figma" />
+  </a>
+</p>
 
 <!-- OS, SEGURIDAD & HERRAMIENTAS -->
 <h3><code>💀 OS, Security & Tools</code></h3>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux,kali,arch,debian,bash,vscode,visualstudio,androidstudio" />
+<h3><code>🚀 Frameworks & DevOps</code></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,kali,arch,debian,bash,vscode,visualstudio,androidstudio" />
+  </a>
+</p>
 
 </div>
 
