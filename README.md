@@ -1,16 +1,18 @@
-<div align="center">
+「 ✦ 𝐍𝐚𝐦𝐞 ✦ 」📢
+
+<div align="center"> 
 
 <!-- LENGUAJES & BASES DE DATOS -->
-<h3><code>💻 Languages & Database</code></h3>
-<p align="center">
+<h5 align="left"><code> ╰┈➤ 💻 Languages & Database</code></h5>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,py,php,js,ts,dart,html,css,mysql,postgres" />
   </a>
 </p>
 
 <!-- FRAMEWORKS & DEVOPS -->
-<h3><code>🚀 Frameworks & DevOps</code></h3>
-<p align="center">
+<h5 align="left"><code> ╰┈➤ 🚀 Frameworks & DevOps</code></h5>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,astro,tailwind,nodejs,laravel,flutter,docker,kubernetes,vercel,git,figma" />
   </a>
@@ -18,12 +20,8 @@
 
 <!-- OS, SEGURIDAD & HERRAMIENTAS -->
 
-<h3>
-  <pre>
-🟢 - 💀 OS, Security & Tools
-  </pre>
-</h3>  
-<p align="center">
+<h5 align="left"><code> ╰┈➤ 💀 OS, Security & Tools</code></h5>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,arch,debian,bash,vscode,visualstudio,androidstudio" />
   </a>
@@ -31,9 +29,7 @@
 
 </div>
 
-<pre>
-🟢 - SPOTIFY PLAYING! 🎧
-</pre>
+<h3><pre>🟢 - SPOTIFY PLAYING! 🎧</pre></h3>
 
 <div style="text-align: center;">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3172duxsvztk6aw6fsqeptfy4mfa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=35ca3d&bar_color_cover=false" width="430" />
