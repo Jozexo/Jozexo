@@ -1,20 +1,20 @@
 <div align="center"> 
 <!-- LENGUAJES & BASES DE DATOS -->
-<h5 align="left"><code> ╰┈➤ 💻 Languages & Database</code></h5>
+<h5 align="left"><pre> ╰┈➤ 💻 Languages & Database</pre></h5>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,py,php,js,ts,dart,html,css,mysql,postgres" />
   </a>
 </p>
 <!-- FRAMEWORKS & DEVOPS -->
-<h5 align="left"><code> ╰┈➤ 🚀 Frameworks & DevOps</code></h5>
+<h5 align="left"><pre> ╰┈➤ 🚀 Frameworks & DevOps</pre></h5>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,astro,tailwind,nodejs,laravel,flutter,docker,kubernetes,vercel,git,figma" />
   </a>
 </p>
 <!-- OS, SEGURIDAD & HERRAMIENTAS -->
-<h5 align="left"><code> ╰┈➤ 💀 OS, Security & Tools</code></h5>
+<h5 align="left"><pre> ╰┈➤ 💀 OS, Security & Tools</pre></h5>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,arch,debian,bash,vscode,visualstudio,androidstudio" />
