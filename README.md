@@ -1,8 +1,23 @@
+<div align="center">
+
+<!-- LENGUAJES & BASES DE DATOS -->
+<h3><code>💻 Languages & Database</code></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,androidstudio,arch,astro,bash,cs,css,dart,debian,figma,flutter,html,kali,kubernetes,laravel,linux,mysql,nodejs,php,postgres,py,react,tailwind,ts,vercel,visualstudio,vscode,js" />
+    <img src="https://skillicons.dev/icons?i=cs,py,php,js,ts,dart,html,css,mysql,postgres" />
   </a>
 </p>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3D" />
+
+<!-- FRAMEWORKS & DEVOPS -->
+<h3><code>🚀 Frameworks & DevOps</code></h3>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,astro,tailwind,nodejs,laravel,flutter,docker,kubernetes,vercel,git,figma" />
+
+<!-- OS, SEGURIDAD & HERRAMIENTAS -->
+<h3><code>💀 OS, Security & Tools</code></h3>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux,kali,arch,debian,bash,vscode,visualstudio,androidstudio" />
+
+</div>
 
 <pre>
 🟢 - SPOTIFY PLAYING! 🎧
