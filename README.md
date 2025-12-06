@@ -17,7 +17,12 @@
 </p>
 
 <!-- OS, SEGURIDAD & HERRAMIENTAS -->
-<h3><code>💀 OS, Security & Tools</code></h3>
+
+<h3>
+  <pre>
+🟢 - 💀 OS, Security & Tools
+  </pre>
+</h3>  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,arch,debian,bash,vscode,visualstudio,androidstudio" />
