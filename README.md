@@ -1,5 +1,3 @@
-「 ✦ 𝐍𝐚𝐦𝐞 ✦ 」📢
-
 <div align="center"> 
 
 <!-- LENGUAJES & BASES DE DATOS -->
