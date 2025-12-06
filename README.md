@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,androidstudio,arch,astro,bash,cs,css,dart,debian,figma,flutter,html,kali,kubernetes,laravel,linux,mysql,nodejs,php,postgres,py,react,tailwind,ts,vercel,visualstudio,vscode,js" />
+  </a>
+</p>
 
 <pre>
 🟢 - SPOTIFY PLAYING! 🎧
